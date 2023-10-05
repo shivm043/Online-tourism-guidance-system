@@ -4,52 +4,52 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const stateData = {
         'A': [
-            { image: 'BodhGaya.png', price: 100, name: 'Bodh Gaya' },
-            { image: 'serSha.png', price: 120, name: 'Sher Sha Suri' }
+            { image: 'image/BodhGaya.png', price: 100, name: 'Bodh Gaya' },
+            { image: 'image/serSha.png', price: 120, name: 'Sher Sha Suri' }
         ],
         'B': [
-            { image: 'kochi.jpg', price: 150, name: 'Kochi' },
-            { image: 'trivendram.jpg', price: 140, name: 'Thiruvananthapuram' }
+            { image: 'image/kochi.jpg', price: 150, name: 'Kochi' },
+            { image: 'image/trivendram.jpg', price: 140, name: 'Thiruvananthapuram' }
         ],
         'C': [
-            { image: 'Mangeshi.png', price: 160, name: 'Mangeshi Temple' },
-            { image: 'Calangute.png', price: 130, name: 'Calangute Beach' }
+            { image: 'image/Mangeshi.png', price: 160, name: 'Mangeshi Temple' },
+            { image: 'image/Calangute.png', price: 130, name: 'Calangute Beach' }
         ],
         'D': [
-            { image: 'dwarakadheesh.jpg', price: 150, name: 'Dwarakadheesh Temple' },
-            { image: 'statue.jpg', price: 140, name: 'Statue Of Unity' }
+            { image: 'image/dwarakadheesh.jpg', price: 150, name: 'Dwarakadheesh Temple' },
+            { image: 'image/statue.jpg', price: 140, name: 'Statue Of Unity' }
         ],
         'E': [
-            { image: 'bihar.png', price: 100, name: 'Tourist Place E1' },
-            { image: 'bihar.png', price: 120, name: 'Tourist Place E2' }
+            { image: 'image/bihar.png', price: 100, name: 'Tourist Place E1' },
+            { image: 'image/bihar.png', price: 120, name: 'Tourist Place E2' }
         ],
         'F': [
-            { image: 'bihar.png', price: 150, name: 'Tourist Place F1' },
-            { image: 'bihar.png', price: 140, name: 'Tourist Place F2' }
+            { image: 'image/bihar.png', price: 150, name: 'Tourist Place F1' },
+            { image: 'image/bihar.png', price: 140, name: 'Tourist Place F2' }
         ],
         'G': [
-            { image: 'bihar.png', price: 100, name: 'Tourist Place G1' },
-            { image: 'bihar.png', price: 120, name: 'Tourist Place G2' }
+            { image: 'image/bihar.png', price: 100, name: 'Tourist Place G1' },
+            { image: 'image/bihar.png', price: 120, name: 'Tourist Place G2' }
         ],
         'H': [
-            { image: 'bihar.png', price: 150, name: 'Tourist Place H1' },
-            { image: 'bihar.png', price: 140, name: 'Tourist Place H2' }
+            { image: 'image/bihar.png', price: 150, name: 'Tourist Place H1' },
+            { image: 'image/bihar.png', price: 140, name: 'Tourist Place H2' }
         ],
         'I': [
-            { image: 'bihar.png', price: 100, name: 'Tourist Place I1' },
-            { image: 'bihar.png', price: 120, name: 'Tourist Place I2' }
+            { image: 'image/bihar.png', price: 100, name: 'Tourist Place I1' },
+            { image: 'image/bihar.png', price: 120, name: 'Tourist Place I2' }
         ],
         'J': [
-            { image: 'Ooty.png', price: 150, name: 'Ooty' },
-            { image: 'phichavaram.png', price: 140, name: 'Phichavaram' }
+            { image: 'image/Ooty.png', price: 150, name: 'Ooty' },
+            { image: 'image/phichavaram.png', price: 140, name: 'Phichavaram' }
         ],
         'K': [
-            { image: 'bihar.png', price: 100, name: 'Tourist Place K1' },
-            { image: 'bihar.png', price: 120, name: 'Tourist Place K2' }
+            { image: 'image/bihar.png', price: 100, name: 'Tourist Place K1' },
+            { image: 'image/bihar.png', price: 120, name: 'Tourist Place K2' }
         ],
         'L': [
-            { image: 'bihar.png', price: 150, name: 'Tourist Place L1' },
-            { image: 'bihar.png', price: 140, name: 'Tourist Place L2' }
+            { image: 'image/bihar.png', price: 150, name: 'Tourist Place L1' },
+            { image: 'image/bihar.png', price: 140, name: 'Tourist Place L2' }
         ]
     };
 

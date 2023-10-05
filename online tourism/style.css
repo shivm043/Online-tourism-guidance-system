@@ -6,7 +6,7 @@
     width: 100%;
     height: 630PX;
     
-    background-image: url("banner.jpg");
+    background-image: url("image/banner.jpg");
     position: absolute;
 } 
 .form-box{
@@ -244,7 +244,7 @@
     margin-left: 300px;
     width: 1045px;
     height: 600px;
-    background-image: url("desti.png");
+    background-image: url("image/desti.png");
 }
 .dig{
     position: absolute;
@@ -367,7 +367,7 @@
 .image2{
     width: 336.25px;
     height :180px;
-    background-image: url(kerla.png);
+    background-image: url(image/kerla.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -375,7 +375,7 @@
     
         width: 336.25px;
         height :180px;
-        background-image: url(goa.png);
+        background-image: url(image/goa.png);
         background-size: cover;
         background-repeat: no-repeat;
 }
@@ -383,7 +383,7 @@
     
     width: 336.25px;
     height :180px;
-    background-image: url(Gujarat.png);
+    background-image: url(image/Gujarat.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -391,7 +391,7 @@
     
     width: 336.25px;
     height :180px;
-    background-image: url(karnataka.png);
+    background-image: url(image/karnataka.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -399,7 +399,7 @@
     
     width: 336.25px;
     height :180px;
-    background-image: url(Rajastha.png);
+    background-image: url(image/Rajastha.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -407,7 +407,7 @@
     
     width: 336.25px;
     height :180px;
-    background-image: url(maharastra.png);
+    background-image: url(image/maharastra.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -415,7 +415,7 @@
     
     width: 336.25px;
     height :180px;
-    background-image: url(uttarpradesh.png);
+    background-image: url(image/uttarpradesh.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -423,7 +423,7 @@
     
     width: 336.25px;
     height :180px;
-    background-image: url(andhrapradesh.png);
+    background-image: url(image/andhrapradesh.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -431,7 +431,7 @@
     
     width: 336.25px;
     height :180px;
-    background-image: url(tamilnadu.png);
+    background-image: url(image/tamilnadu.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -439,7 +439,7 @@
     
     width: 336.25px;
     height :180px;
-    background-image: url(Westbengal.png);
+    background-image: url(image/Westbengal.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -447,7 +447,7 @@
     
     width: 336.25px;
     height :180px;
-    background-image: url(uttrakhand.png);
+    background-image: url(image/uttrakhand.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -481,7 +481,7 @@
     
     width: 448.5px;
     height :180px;
-    background-image: url(Ooty.png);
+    background-image: url(image/Ooty.png);
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -517,7 +517,7 @@
 .place2{
     width: 448.5px;
     height :180px;
-    background-image: url(phichavaram.png);
+    background-image: url(image/phichavaram.png);
     background-size: cover;
     background-repeat: no-repeat;
 } 
@@ -538,9 +538,6 @@
     content: "";
     display: table;
     clear: both;
-}
-.wer{
-    background-color: blue;
 }
 .placeName{
     margin-left: 120px;
